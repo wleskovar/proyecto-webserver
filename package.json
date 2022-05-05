@@ -1,0 +1,27 @@
+{
+  "name": "proyecto-webserver",
+  "version": "1.0.0",
+  "description": "Proyecto Web server - practica de javascript, node y express",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wleskovar/proyecto-webserver.git"
+  },
+  "keywords": [
+    "javascript",
+    "node.js",
+    "express"
+  ],
+  "author": "Walter Leskovar - curso de Udemy Node: De cero a experto, prof.: Fernando Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wleskovar/proyecto-webserver/issues"
+  },
+  "homepage": "https://github.com/wleskovar/proyecto-webserver#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
